@@ -18,7 +18,7 @@ Features
 * Daily puzzles 
 * Radom puzzle from 1000 puzzles
 * Chess960 positions to play
-* Play aganist frined locally
+* Play aganist friend locally
 
 Build 
 ===========
