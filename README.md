@@ -25,7 +25,7 @@ Build
 Start a new [flutter](https://flutter.dev/docs/get-started/test-drive?tab=terminal) app
 
 ```
-flutter create myapp
+flutter create my_chess_trainer
 ```
 <br>
 
