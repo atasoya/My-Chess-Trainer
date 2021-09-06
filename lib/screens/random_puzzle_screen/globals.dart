@@ -1,0 +1,2 @@
+var globalFen;
+var globalAnswer;
