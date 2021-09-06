@@ -1,6 +1,6 @@
 <h1 style="font-weight:normal">
   <a href="https://atasoya.com">
-    <img src=my_logo.png alt="mychesstrainerlogo" width=45>
+    <img src=https://github.com/atasoya/My-Chess-Trainer/blob/main/assets/my_logo.png alt="mychesstrainerlogo" width=45>
   </a>
   &nbsp;My Chess Trainer&nbsp;
   <img src=https://img.shields.io/badge/release-1.0.0-green alt="mychesstrainerlogo" width=75>
@@ -10,7 +10,7 @@ Usefull app for chess players
 <br>
 
 <p align="center"> 
-  <img alt="banner" src="banner.jpg">
+  <img alt="banner" src="https://github.com/atasoya/My-Chess-Trainer/blob/main/assets/banner.jpg">
 </p>
 
 Features
@@ -47,16 +47,16 @@ Showcase
 <center>
   <table>
     <tr>
-      <td><a href="https://sourcerer.io/chdemko"><img width="120" alt="chdemko" src="p1.jpg"></a></td>
-      <td><a href="https://sourcerer.io/chendaniely"><img width="120" alt="chendaniely" src="p2.jpg"></a></td>
-      <td><a href="https://sourcerer.io/lauragift21"><img width="120" alt="lauragift21" src="p3.jpg"></a></td>
-      <td><a href="https://sourcerer.io/maracuja-juice"><img width="120" alt="maracuja-juice" src="p4.jpg"></a></td>
+      <td><a href="https://play.google.com/store/apps/details?id=com.atasoya.my_chess_trainer_build"><img width="120" alt="chdemko" src="https://github.com/atasoya/My-Chess-Trainer/blob/main/assets/p1.jpg"></a></td>
+      <td><a href="https://play.google.com/store/apps/details?id=com.atasoya.my_chess_trainer_build"><img width="120" alt="chendaniely" src="https://github.com/atasoya/My-Chess-Trainer/blob/main/assets/p2.jpg"></a></td>
+      <td><a href="https://play.google.com/store/apps/details?id=com.atasoya.my_chess_trainer_build"><img width="120" alt="lauragift21" src="https://github.com/atasoya/My-Chess-Trainer/blob/main/assets/p3.jpg"></a></td>
+      <td><a href="https://play.google.com/store/apps/details?id=com.atasoya.my_chess_trainer_build"><img width="120" alt="maracuja-juice" src="https://github.com/atasoya/My-Chess-Trainer/blob/main/assets/p4.jpg"></a></td>
     </tr>
     <tr>
-      <td><a href="https://sourcerer.io/marisbotero"><img width="120" alt="marisbotero" src="p5.jpg"></a></td>
-      <td><a href="https://sourcerer.io/nordes"><img width="120" alt="nordes" src="p6.jpg"></a></td>
-      <td><a href="https://sourcerer.io/ppapadeas"><img width="120" alt="ppapadeas" src="p7.jpg"></a></td>
-      <td><a href="https://sourcerer.io/praharshjain"><img width="120" alt="praharshjain" src="p8.jpg"></a></td>
+      <td><a href="https://play.google.com/store/apps/details?id=com.atasoya.my_chess_trainer_build"><img width="120" alt="marisbotero" src="https://github.com/atasoya/My-Chess-Trainer/blob/main/assets/p5.jpg"></a></td>
+      <td><a href="https://play.google.com/store/apps/details?id=com.atasoya.my_chess_trainer_build"><img width="120" alt="nordes" src="https://github.com/atasoya/My-Chess-Trainer/blob/main/assets/p6.jpg"></a></td>
+      <td><a href="https://play.google.com/store/apps/details?id=com.atasoya.my_chess_trainer_build"><img width="120" alt="ppapadeas" src="https://github.com/atasoya/My-Chess-Trainer/blob/main/assets/p7.jpg"></a></td>
+      <td><a href="https://play.google.com/store/apps/details?id=com.atasoya.my_chess_trainer_build"><img width="120" alt="praharshjain" src="https://github.com/atasoya/My-Chess-Trainer/blob/main/assets/p8.jpg"></a></td>
     </tr>
   </table>
 </center>
